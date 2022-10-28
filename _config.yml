@@ -51,8 +51,9 @@ disqus: # fromendworld
 gitalk:
   clientID: 6c076c1225e26549ded4
   clientSecret: c9f25ea4340de7dce52a68c2a1c55e8236699cab
-  repo: https://wuzhuoyi114514.github.io
+  repo: wuzhuoyi114514.github.io
   owner: wuzhuoyi114514
+  admin: wuzhuoyi114514
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-247199276-1
