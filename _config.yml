@@ -49,8 +49,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 6c076c1225e26549ded4
-  clientSecret: c9f25ea4340de7dce52a68c2a1c55e8236699cab
+  clientID: 3aadbdceecc26c571220
+  clientSecret: c8bacd8826c8901be3675e2f05045f01e250bac7
   repo: wuzhuoyi114514.github.io
   owner: wuzhuoyi114514
   admin: wuzhuoyi114514
